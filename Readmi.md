@@ -9,5 +9,5 @@ This is a responsive landing page for students who want to study MBBS abroad.
 ✅ SEO optimized  
 
 ## Deployment
-- Live Demo: [https://your-site.netlify.app](https://your-site.netlify.app)
-- GitHub Repo: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+- Live Demo: https://study-mbbs-landing-page-rbjx.vercel.app/
+- GitHub Repo: https://github.com/MustafaKhan78/study-mbbs-landing-page
